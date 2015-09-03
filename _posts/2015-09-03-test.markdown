@@ -1,0 +1,12 @@
+---
+layout: post
+title: "test"
+author: Firstname Lastname
+date: 2015-09-03 15:10:03
+tags:
+- HERE
+img: HERE.jpg
+thumb: HERE.jpg
+summary: HERE
+---
+

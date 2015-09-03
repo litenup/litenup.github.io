@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Cool"
+author: Firstname Lastname
+date: 2015-09-03 14:46:36
+tags: 
+- HERE
+img: HERE.jpg
+thumb: HERE.jpg
+summary: HERE
+---
+
